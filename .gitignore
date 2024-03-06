@@ -46,3 +46,6 @@ secrets.tfvars.json
 
 # Exclude directories that may contain vendor files
 vendor/
+
+# Exclude exe
+*.exe
